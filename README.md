@@ -1,4 +1,4 @@
-# 使用php调用dcmtk
+# 使用php调用dcmtk来解析dicom文件
 
 ## 安装
 

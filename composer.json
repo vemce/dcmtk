@@ -1,6 +1,6 @@
 {
     "name": "vemce/dcmtk",
-    "description": "Parse the Dicom file using DCMTK",
+    "description": "Parse the Dicom file by DCMTK",
     "license": "MIT",
     "authors": [
         {

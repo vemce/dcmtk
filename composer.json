@@ -16,7 +16,6 @@
     "require": {
         "intervention/image": "*",
         "ext-fileinfo": "*",
-        "ext-imagick": "*",
         "ext-iconv": "*"
     }
 }

@@ -1,0 +1,22 @@
+{
+    "name": "vemce/dcmtk",
+    "description": "Parse the Dicom file using DCMTK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vemce",
+            "email": "vemce@foxmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "vemce\\dcmtk\\": "./src"
+        }
+    },
+    "require": {
+        "intervention/image": "*",
+        "ext-fileinfo": "*",
+        "ext-imagick": "*",
+        "ext-iconv": "*"
+    }
+}
